@@ -16,6 +16,15 @@ In this project, you’ll learn how to:
 
 ---
 
+## 🛠️ Tools & Technologies
+- **Excel** – Data cleaning, pivot tables, and dashboard creation
+- **Power Bi** - ETL 
+
+---
+
+## 📸 Dashboard Snapshot
+![Dashboard Screenshot](https://github.com/Praveenkumar-p-gif/FNP-Sales-ExcelDashboard/blob/main/FNP%20Excel%20Dasboard/Screenshot%202025-09-21%20105359.png)
+
 
 ## 🛠 Getting Started
 
