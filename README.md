@@ -23,7 +23,7 @@ In this project, you’ll learn how to:
 ---
 
 ## 📸 Dashboard Snapshot
-![Dashboard Screenshot](https://github.com/Praveenkumar-p-gif/FNP-Sales-ExcelDashboard/blob/main/FNP%20Excel%20Dasboard/Screenshot%202025-09-21%20105359.png)
+![Dashboard Screenshot](https://github.com/Praveenkumar-p-gif/Inventory-and-Supply-Chain-Management/blob/main/Supply-Chain-Management/Screenshot%202025-09-29%20180039.png)
 
 
 ## 🛠 Getting Started
